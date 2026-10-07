@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "sequence": 1,
+  "product": "alpha",
+  "channel": "stable",
+  "latestVersion": "0.1.0",
+  "minimumSupportedVersion": null,
+  "blockedVersions": [],
+  "issuedAt": "2026-10-07T11:05:33Z",
+  "expiresAt": "2027-01-05T11:05:33Z",
+  "title": "Alpha 0.1.0",
+  "message": "Bootstrap policy: 0.1.0 is current; artifact digests are filled in after the first release build.",
+  "artifacts": {
+    "windows-x64": {
+      "url": "https://github.com/xunchahaha/alpha-releases/releases/download/v0.1.0/Alpha-0.1.0-x64-Setup.exe",
+      "sha512": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "size": 1
+    }
+  },
+  "signature": {
+    "alg": "Ed25519",
+    "kid": "release-1",
+    "value": "z41cX7o5AJV55QrvmM5LFCjGAbT5C8znhH_cOabSK-TbTa3Oyva1FefxRCE4DSWxMjtsHKWFVNryd4WHDm6eBQ"
+  }
+}
