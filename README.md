@@ -11,8 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/xunchahaha/alpha-releases/releases/latest"><img src="https://img.shields.io/badge/GitHub-Releases-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Releases"></a>
-  <a href="https://t.me/weflow_cc"><img src="https://img.shields.io/badge/Telegram-%E9%A2%91%E9%81%93-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram 频道"></a>
-  <a href="https://t.me/+8Fei10jvrno1MThl"><img src="https://img.shields.io/badge/Telegram-%E7%BE%A4%E7%BB%84-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram 群组"></a>
+  <a href="https://t.me/+tdhyuAoiuqAzNDJh"><img src="https://img.shields.io/badge/Telegram-%E7%BE%A4%E7%BB%84-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram 群组"></a>
 </p>
 
 > [!IMPORTANT]
