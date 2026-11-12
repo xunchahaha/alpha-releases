@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **我目前已不再负责 Alpha 的开发工作。** 我现在加入了 [wuuud](https://github.com/Wuuud-ai/Wuuud)，之后的开发和更新都在那边进行。想继续联系我、了解新项目，欢迎加入 Telegram 群：<https://t.me/+tdhyuAoiuqAzNDJh>
+
 <p align="center">
   <img src="assets/alpha-icon.png" alt="Alpha" width="96">
 </p>
